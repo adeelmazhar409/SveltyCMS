@@ -1,5 +1,6 @@
 {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 	"name": "sveltycms",
 	"description": "A powerful Headless CMS with sveltekit power",
 	"version": "0.0.5",
@@ -166,6 +167,8 @@
 		"mongodb-connection-string-url": "^3.0.0"
 	}
 =======
+=======
+>>>>>>> Stashed changes
   "name": "sveltycms",
   "description": "A powerful Headless CMS with sveltekit power",
   "version": "0.0.5",
@@ -333,5 +336,8 @@
     "mongodb-connection-string-url": "^3.0.0"
   },
   "module": "index.ts"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 }
